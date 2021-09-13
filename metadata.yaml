@@ -1,0 +1,25 @@
+_repo: Milk-Run_66144
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Locke, Robert Donald
+    alias: Arcot, Roger
+    gutenberg_agent_id: '31862'
+    url: http://www.gutenberg.org/2009/agents/31862
+description: ''
+gutenberg_issued: '2021-08-25'
+identifiers:
+  gutenberg: '66144'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Space ships -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Short stories'
+- GITenberg
+title: Milk Run
+url: http://www.gutenberg.org/ebooks/66144
